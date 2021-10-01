@@ -9,5 +9,6 @@
  ![Getting Started](./screen1.png)
  ![Getting Started](./screen0.png)
 
+[https://stroke-prediction-checker.herokuapp.com/]
 
 ## To run in your local system, install the required packages from requirements.txt file.
