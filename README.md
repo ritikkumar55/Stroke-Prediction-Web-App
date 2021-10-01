@@ -1,6 +1,8 @@
 # Stroke-Prediction-Web-App
 # Stroke Prediction WebApp-with-Streamlit-and-Python 
 
+## Web App Link - [https://stroke-prediction-checker.herokuapp.com/]
+
 ## Streamlit is an open-source app framework for Machine Learning and Data Science projects, Which helps you to view your projects in the Web Application.
 
 ## According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.
@@ -9,6 +11,6 @@
  ![Getting Started](./screen1.png)
  ![Getting Started](./screen0.png)
 
-[https://stroke-prediction-checker.herokuapp.com/]
+
 
 ## To run in your local system, install the required packages from requirements.txt file.
